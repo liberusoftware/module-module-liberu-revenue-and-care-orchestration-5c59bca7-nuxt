@@ -1,0 +1,16 @@
+{
+  "repository": "module-module-liberu-revenue-and-care-orchestration-5c59bca7-nuxt",
+  "capabilityKey": "liberusoftware/module-liberu-revenue-and-care-orchestration",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-module-liberu-revenue-and-care-orchestration-5c59bca7-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/billing/nextjs/liberu-revenue-and-care-orchestration.md",
+  "presentationPlan": "projects/billing/nuxt/liberu-revenue-and-care-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing",
+    "genealogy"
+  ]
+}
